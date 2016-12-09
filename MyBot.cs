@@ -119,7 +119,7 @@ namespace LootBot
 
             discord.ExecuteAndWait(async () =>
             {
-                await discord.Connect("MjUwMjY4Mzc2Njc5NTc5NjQ4.CxScQg.Ff1HBP8pQ-35Y1q1JIq0oz2OUzY", TokenType.Bot);
+                await discord.Connect("USE YOUR DISCORD TOKEN HERE", TokenType.Bot);
             });
         }
 
